@@ -1,1 +1,2 @@
 # calculator
+I have gone through the process of creating a simple calculator using HTML, CSS, and JavaScript. I started by setting up the HTML structure and adding buttons and an input field. Then, I used CSS to style the calculator, giving it a basic layout, font and background color, and hover effects. Finally, I added functionality with JavaScript, allowing the user to input numbers and perform arithmetic operations.
